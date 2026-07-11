@@ -10,7 +10,7 @@ header('Content-Type: application/json');
 define('USER_AGENT', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36');
 define('TOKEN_URL',       'https://open.spotify.com/api/token');
 define('SERVER_TIME_URL', 'https://open.spotify.com/api/server-time');
-define('SECRETS_URL',     'https://github.com/CycloneAddons/spotify-token-generator/blob/main/secrets/secretDict.json?raw=true');
+define('SECRETS_URL',     'https://raw.githubusercontent.com/newaxd/babapro/refs/heads/main/secrets/secretDict.json?raw=true');
 define('SPOTIFY_URL',     'https://open.spotify.com/');
 
 // ─── HTTP yardımcısı ────────────────────────────────────────────────────────
